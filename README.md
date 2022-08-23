@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://i.pinimg.com/originals/42/24/cf/4224cf3050fe36619573953f3a1bc55d.jpg" width= "100px" heigt="150px" alt="Workspace" />
+  <img src="https://i.pinimg.com/originals/42/24/cf/4224cf3050fe36619573953f3a1bc55d.jpg" width= "200px" heigt="270px" alt="Workspace" />
 
   &#xa0;
 
