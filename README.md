@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://www.planetandes.com/es/ecuador/andes/azuay/cuenca/nueva-catedral-de-cuenca/" alt="Workspace" />
+  <img src="https://i.pinimg.com/474x/ae/84/2c/ae842cde2f37fc2cfd41056f9a2ddec3.jpg" alt="Workspace" />
 
   &#xa0;
 
