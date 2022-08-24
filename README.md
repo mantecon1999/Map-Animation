@@ -21,7 +21,7 @@
 
 ## :dart: About ##
 
-The goal in this project is to show a map of the city of Cuenca, with an option bar that let you decide where in the city you want to go. The map will show the way to the destination. To accomplish the project, it was necessary to use an API from mapbox along with JavaScript, HTML and CSS.
+The goal in this project is to show a map of the city of Cuenca, with an option bar that lets you decide where in the city you want to go. The map will show the way to the destination. To accomplish the project, it was necessary to use an API from mapbox along with JavaScript, HTML and CSS.
 
 ## :checkered_flag: RoadMap ##
 
